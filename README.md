@@ -1,3 +1,3 @@
 # bootcamp-carrefour-dio
-Progresso no curso
+Progresso  e anotações
 ##  códigos e desafios
